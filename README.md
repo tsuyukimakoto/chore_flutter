@@ -132,6 +132,16 @@ Doctor summary (to see all details, run flutter doctor -v):
 • No issues found!
 ```
 
+## Write my first app
+
+- https://flutter.dev/docs/get-started/codelab
+
+### 依存パッケージ
+
+`pubspec.yamlのdependencies` に書く。
+
+Android Studioの編集ビューの右上に `Package get` という文字があるので押すとパッケージの取得が行われる。
+
 ## いずれ見る
 
 - flutter redux
